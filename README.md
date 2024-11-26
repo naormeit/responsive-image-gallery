@@ -13,8 +13,13 @@ This project demonstrates the creation of a **responsive image gallery** using H
 - **HTML**: For the basic structure of the image gallery.
 - **CSS**: For styling the layout and making the gallery responsive using **CSS Grid**.
   
-## How It Works
-- The gallery uses a **3x3 grid layout** where each image is placed in its own grid cell.
-- The images are set to **fill the grid cells horizontally** while maintaining their **aspect ratio**.
-- **CSS Grid properties** ensure that the gallery adjusts to different screen sizes, from small mobile screens to large desktop monitors.
-- The images also have **rounded corners** to enhance the visual appeal of the gallery.
+## Live Demo
+
+You can view a live version of this project by visiting the following link:
+
+[Live Demo](https://naormeit.github.io/responsive-image-gallery/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
